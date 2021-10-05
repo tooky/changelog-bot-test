@@ -11,6 +11,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.1]
 ### Added
-- First commit, fixes #3
+- Second commit, fixes #3
 
 [Unreleased]: https://github.com/smartbear/changelog-bot-test/compare
