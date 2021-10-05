@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - First commit
 
 ## [1.0.3]
-- Some more, fixes #1
+- Some more, added #1
 
 ## [1.0.2]
 ### Added
